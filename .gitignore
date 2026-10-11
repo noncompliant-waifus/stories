@@ -1,0 +1,34 @@
+# Node.js dependencies and Vite build output
+node_modules/
+/dist/
+*.tsbuildinfo
+vite.config.*.timestamp-*
+
+# Local environment settings (keep documented examples)
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python page preparation
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor temporary files and operating system metadata
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep package-lock.json, public/downloads/*.pdf and public/manga/** in Git.

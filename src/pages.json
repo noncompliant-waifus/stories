@@ -1,0 +1,216 @@
+{
+  "ru": [
+    {
+      "src": "manga/vol-1/ru/01.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/02.webp",
+      "width": 1055,
+      "height": 1491
+    },
+    {
+      "src": "manga/vol-1/ru/03.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/04.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/05.webp",
+      "width": 1195,
+      "height": 1316
+    },
+    {
+      "src": "manga/vol-1/ru/06.webp",
+      "width": 948,
+      "height": 1659
+    },
+    {
+      "src": "manga/vol-1/ru/07.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/08.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/09.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/10.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/11.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/12.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/13.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/14.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/15.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/16.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/17.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/18.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/19.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/20.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/ru/21.webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "en": [
+    {
+      "src": "manga/vol-1/en/01.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/02.webp",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "src": "manga/vol-1/en/03.webp",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "src": "manga/vol-1/en/04.webp",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "src": "manga/vol-1/en/05.webp",
+      "width": 1195,
+      "height": 1316
+    },
+    {
+      "src": "manga/vol-1/en/06.webp",
+      "width": 948,
+      "height": 1659
+    },
+    {
+      "src": "manga/vol-1/en/07.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/08.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/09.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/10.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/11.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/12.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/13.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/14.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/15.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/16.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/17.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/18.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/19.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/20.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "src": "manga/vol-1/en/21.webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ]
+}
