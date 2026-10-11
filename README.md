@@ -1,5 +1,7 @@
 # EVE Online based Manga
 
+https://noncompliant-waifus.github.io/stories/
+
 **Based on real events in EVE Online. Inspired by the adventures of capsuleer Lala Deviluke.**
 
 An unofficial, non-commercial fan manga about life of Lala Deviluke.
