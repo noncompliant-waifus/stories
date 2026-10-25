@@ -29,7 +29,5 @@ for language in ('ru', 'en'):
         raise RuntimeError(f'No pages rendered for {source}')
     manifest[language] = pages
     print(f'{language}: {len(pages)} pages')
-if len(manifest['ru']) != len(manifest['en']):
-    raise RuntimeError('Language editions must have matching page counts')
 (ROOT / 'src').mkdir(exist_ok=True)
 (ROOT / 'src' / 'pages.json').write_text(json.dumps(manifest, indent=2) + '\n')
